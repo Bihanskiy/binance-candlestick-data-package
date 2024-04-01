@@ -8,7 +8,7 @@
 
 ## 💿 Install
 
-Make sure you've installed <a href="https://tailwindcss.com/docs/installation">TailwindCSS</a>.
+Make sure you've installed <a href="https://tailwindcss.com/docs/installation">TailwindCSS</a>, <a href="https://www.chartjs.org/docs/latest/getting-started/installation.html">Chart.js</a> and <a href="https://react-chartjs-2.js.org/">react-chartjs-2</a>.
 
 Install the package with npm or yarn:
 
