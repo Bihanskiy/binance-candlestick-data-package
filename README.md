@@ -8,7 +8,7 @@
 
 ## 💿 Install
 
-Make sure you've installed <a href="https://tailwindcss.com/docs/installation">TailwindCSS</a> and <a href="https://daisyui.com/docs/install/">daisyUI</a>.
+Make sure you've installed <a href="https://tailwindcss.com/docs/installation">TailwindCSS</a>.
 
 Install the package with npm or yarn:
 
